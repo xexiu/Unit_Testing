@@ -26,7 +26,8 @@ a. What you SHOULD NOT test:
 * Code that has non-deterministic results (like random numbers).
 
 b. What you SHOULD test:
-https://zeroturnaround.com/wp-content/uploads/2015/12/YourAppV2-min.png
+
+![alt text](https://zeroturnaround.com/wp-content/uploads/2015/12/YourAppV2-min.png)
 
 - In this case, the highlighted part in gold is where you should focus your testing efforts. 
 - This is the part of the code where usually most bugs manifest.
