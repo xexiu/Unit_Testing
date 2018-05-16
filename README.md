@@ -190,7 +190,9 @@ describe('User Login', () => {
 	let user,
 		mockAdmin;
 
-	// We can instead simply extend the class and override one or more specific function in order to get them to return the test responses we need, like so:
+	// We can instead simply extend the class 
+	// and override one or more specific function 
+	// in order to get them to return the test responses we need, like so:
 	
 	class MockUser extends User {
 		this.admin = true;
